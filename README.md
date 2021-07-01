@@ -1,4 +1,4 @@
-Check it our here --> []https://mariasventeriki.github.io/simple-NavBarwithReact/
+Check it our here --> https://mariasventeriki.github.io/simple-NavBarwithReact/
 
 
 # Getting Started with Create React App
